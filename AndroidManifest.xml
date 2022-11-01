@@ -4597,8 +4597,6 @@
             </intent-filter>
         </activity>
 
-<<<<<<< HEAD
-=======
         <!-- Face enroll -->
         <activity android:theme="@style/SudThemeGlif.Light"
                   android:name="com.android.settings.biometrics.face.FaceEnrollActivityDirector"
@@ -4627,7 +4625,6 @@
                 android:value="com.evolution.settings.fragments.SmartPixels" />
         </activity>
 
->>>>>>> 32f13d81dc (Settings: Create face confirmation activity)
         <!-- This is the longest AndroidManifest.xml ever. -->
 
         <!-- X-Tensions -->
